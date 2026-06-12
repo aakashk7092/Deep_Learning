@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0",
+  "created_at": "2026-06-12T00:00:00+00:00",
+  "accuracy": null,
+  "architecture": "EfficientNetB0",
+  "image_size": [224, 224],
+  "num_classes": 38
+}

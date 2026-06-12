@@ -1,0 +1,22 @@
+{
+  "raw_dataset_ready": false,
+  "processed_train_ready": false,
+  "processed_val_ready": false,
+  "processed_test_ready": false,
+  "best_model_keras_ready": false,
+  "best_model_h5_ready": false,
+  "labels_ready": true,
+  "metadata_ready": true,
+  "reports": {
+    "accuracy_curve.png": false,
+    "loss_curve.png": false,
+    "confusion_matrix.png": false,
+    "classification_report.txt": false,
+    "roc_curves.png": false,
+    "prediction_examples.png": false,
+    "evaluation_metrics.json": false
+  },
+  "ready_for_training": false,
+  "ready_for_inference": false,
+  "ready_for_backend_predictions": false
+}
